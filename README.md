@@ -29,7 +29,7 @@ This project focuses on developing an open-loop robot designed to climb trees. T
 
 ### Software Downloads
 
-- Download [Keil](https://www.keil.com/download/product/)
+- Download [Keil](https://www.keil.com/download/product/) `MDK-ARM`
 - Download [Java](https://www.java.com/download/ie_manual.jsp)
 - Download [CubeMX](https://www.st.com/content/st_com/en/stm32cubemx.html)
 
