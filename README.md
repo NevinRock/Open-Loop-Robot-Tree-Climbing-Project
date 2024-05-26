@@ -7,6 +7,11 @@ This project focuses on developing an open-loop robot designed to climb trees. T
 ## Operating System📢
 
 - Windows 11 Professional 23H2 22631.3593
+  
+## Software Version🔑
+
+- **Keil uVision**: V5.39.0.0
+- **STM32CubeMX**: Version 6.10.0
 
 ## Microcontroller Models🌏
 
