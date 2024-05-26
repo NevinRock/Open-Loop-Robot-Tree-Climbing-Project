@@ -1,0 +1,25 @@
+--cpu Cortex-M3
+"term_3_auto_f1_stepper_5_26\startup_stm32f103x6.o"
+"term_3_auto_f1_stepper_5_26\main.o"
+"term_3_auto_f1_stepper_5_26\gpio.o"
+"term_3_auto_f1_stepper_5_26\tim.o"
+"term_3_auto_f1_stepper_5_26\stm32f1xx_it.o"
+"term_3_auto_f1_stepper_5_26\stm32f1xx_hal_msp.o"
+"term_3_auto_f1_stepper_5_26\stm32f1xx_hal_gpio_ex.o"
+"term_3_auto_f1_stepper_5_26\stm32f1xx_hal_tim.o"
+"term_3_auto_f1_stepper_5_26\stm32f1xx_hal_tim_ex.o"
+"term_3_auto_f1_stepper_5_26\stm32f1xx_hal.o"
+"term_3_auto_f1_stepper_5_26\stm32f1xx_hal_rcc.o"
+"term_3_auto_f1_stepper_5_26\stm32f1xx_hal_rcc_ex.o"
+"term_3_auto_f1_stepper_5_26\stm32f1xx_hal_gpio.o"
+"term_3_auto_f1_stepper_5_26\stm32f1xx_hal_dma.o"
+"term_3_auto_f1_stepper_5_26\stm32f1xx_hal_cortex.o"
+"term_3_auto_f1_stepper_5_26\stm32f1xx_hal_pwr.o"
+"term_3_auto_f1_stepper_5_26\stm32f1xx_hal_flash.o"
+"term_3_auto_f1_stepper_5_26\stm32f1xx_hal_flash_ex.o"
+"term_3_auto_f1_stepper_5_26\stm32f1xx_hal_exti.o"
+"term_3_auto_f1_stepper_5_26\system_stm32f1xx.o"
+--strict --scatter "term_3_auto_F1_Stepper_5_26\term_3_auto_F1_Stepper_5_26.sct"
+--summary_stderr --info summarysizes --map --load_addr_map_info --xref --callgraph --symbols
+--info sizes --info totals --info unused --info veneers
+--list "term_3_auto_F1_Stepper_5_26.map" -o term_3_auto_F1_Stepper_5_26\term_3_auto_F1_Stepper_5_26.axf

@@ -1,0 +1,1 @@
+term_3_auto_f1_stepper_5_26\startup_stm32f103x6.o: startup_stm32f103x6.s
