@@ -159,7 +159,7 @@ void SystemClock_Config(void)
 
 /**
   * @brief  This function is for stepper forward
-  * @param  n is the number of loop #uint16_t
+  * @param  $ n $ the number of loop #uint16_t
   * @retval None
   */
 
@@ -178,7 +178,7 @@ void Stepper_Forward(uint16_t n)
 
 /**
   * @brief  This function is for stepper backword
-  * @param  n is the number of loop #uint16_t
+  * @param  $ n $ is the number of loop #uint16_t
   * @retval None
   */
 
@@ -197,7 +197,7 @@ void Stepper_Backward(uint16_t n)
 
 /**
   * @brief  This function is for servo forword
-  * @param  C is the channel of tim1 && T is the time for delay #uint16_t
+  * @param  $ C $ is the channel of tim1 && $ T $ is the time for delay #uint16_t
   * @retval None
   */
 
@@ -225,7 +225,7 @@ void Servo_Forward(uint16_t C,uint16_t T)
 
 /**
   * @brief  This function is for servo backward
-  * @param  t is the time for delay #uint16_t
+  * @param  $ C $ is the channel of tim1 && $ T $ is the time for delay #uint16_t
   * @retval None
   */
 
